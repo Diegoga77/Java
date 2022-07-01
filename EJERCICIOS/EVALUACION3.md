@@ -11,14 +11,14 @@ clara, según sea el caso.
 
           a. 6
           b. false
-          c. true
+           X c. true
           d. 5
 
 2. ¿Qué hace el siguiente código? (Valor 1 punto)
 System.out.println(8 <= 8);
 
           a. Imprime false.
-          b. Imprime true.
+            X b. Imprime true.
           c. Imprime 8.
           d. Imprime 0.
 
@@ -61,7 +61,7 @@ int status = 7 < 8;
           a. Sí, int debería se char.
           b. Sí, int debería ser boolean.
           c. Sí, no debería de haber un punto y como.
-          d. No hay error.
+            Xd. No hay error.
 
 7. ¿Cuál es el resultado de la siguiente concatenación de cadenas? (Valor 1 punto)
 
